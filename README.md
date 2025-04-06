@@ -3,10 +3,7 @@
     <img width="200" src="https://raw.githubusercontent.com/sinny999s/V1vance/refs/heads/nextgen/src-theme/public/img/lb-logo.svg">
 </p>
 
-[liquidbounce.net](https://liquidbounce.net) |
-[Forum](https://forums.ccbluex.net) |
-[YouTube](https://youtube.com/CCBlueX) |
-[Twitter](https://twitter.com/CCBlueX)
+[Sinnys Discord ]([https://liquidbounce.net](https://discord.gg/U8aX9cWYMf)) |
 </div>
 
 LiquidBounce is a free and open-source mixin-based injection hacked client using the Fabric API for Minecraft.
