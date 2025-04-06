@@ -6,7 +6,7 @@
 [Sinnys Discord ](https://discord.gg/U8aX9cWYMf)
 </div>
 
-LiquidBounce is a free and open-source mixin-based injection hacked client using the Fabric API for Minecraft.
+Vivance is a free and open-source mixin-based injection hacked client using the Fabric API for Minecraft.
 
 ## Issues
 
