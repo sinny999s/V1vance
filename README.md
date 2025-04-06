@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-    <img width="200" src="https://raw.githubusercontent.com/CCBlueX/LiquidCloud/master/LiquidBounce/liquidbounceLogo.svg">
+    <img width="200" src="https://raw.githubusercontent.com/sinny999s/V1vance/refs/heads/nextgen/src-theme/public/img/lb-logo.svg">
 </p>
 
 [liquidbounce.net](https://liquidbounce.net) |
