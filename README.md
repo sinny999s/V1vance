@@ -1,66 +1,46 @@
 <div align="center">
-<p>
-    <img width="200" src="https://raw.githubusercontent.com/sinny999s/V1vance/refs/heads/nextgen/src-theme/public/img/lb-logo.svg">
-</p>
-
-[Sinnys Discord ](https://discord.gg/U8aX9cWYMf)
+  <img width="200" src="https://raw.githubusercontent.com/sinny999s/V1vance/nextgen/src-theme/public/img/lb-logo.svg" alt="Vivance Logo">
+  <h1>Vivance</h1>
+  <p><i>A reimagined and modded version of LiquidBounce for Minecraft 1.8.9</i></p>
+  <p>
+    <a href="https://discord.gg/U8aX9cWYMf"><strong>Join Sinnys Discord</strong></a>
+  </p>
 </div>
 
-Vivance is a free and open-source mixin-based injection hacked client using the Fabric API for Minecraft.
+---
 
-## Issues
+### 🚀 About
 
-If you notice any bugs or missing features, you can let us know by opening an
-issue [here](https://github.com/CCBlueX/LiquidBounce/issues).
+**Vivance** is a free and open-source mixin-based injection hacked client built using the Fabric API.  
+It is based on the original [LiquidBounce NextGen](https://github.com/CCBlueX/LiquidBounce), now rebranded and enhanced by [@sinny999s](https://github.com/sinny999s).
 
-## License
+---
 
-This project is subject to the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html). This
-does only apply for source code located directly in this clean repository. During the development and compilation
-process, additional source code may be used to which we have obtained no rights. Such code is not covered by the GPL
-license.
+### 🐛 Issues
 
-For those who are unfamiliar with the license, here is a summary of its main points. This is by no means legal advice
-nor legally binding.
+Notice a bug or want to suggest a feature?  
+You can open an issue on the [original project](https://github.com/CCBlueX/LiquidBounce/issues) or fork this repo and submit your ideas directly.
 
-*Actions that you are allowed to do:*
+---
 
+### 📜 License
+
+This project is under the [GNU GPL v3.0 License](https://www.gnu.org/licenses/gpl-3.0.en.html).  
+It applies **only to the source code in this repo**. Other third-party or compiled parts used during build time may be under separate licenses.
+
+#### ✅ You may:
 - Use
 - Share
 - Modify
 
-*If you do decide to use ANY code from the source:*
+#### ❗ You must:
+- Keep your modified project open-source under GPL
+- Include original and modified source code
 
-- **You must disclose the source code of your modified work and the source code you took from this project. This means
-  you are not allowed to use code from this project (even partially) in a closed-source (or even obfuscated)
-  application.**
-- **Your modified application must also be licensed under the GPL**
+---
 
-## Setting up a Workspace
+### ⚙️ Setting Up a Workspace
 
-LiquidBounce uses Gradle, to make sure that it is installed properly you can
-check [Gradle's website](https://gradle.org/install/). It also requires Node.js and Python to be installed for
-our [theme](https://github.com/CCBlueX/LiquidBounce/tree/nextgen/src-theme).
-
-1. Clone the repository using `git clone --recurse-submodules https://github.com/CCBlueX/LiquidBounce`.
-2. CD into the local repository.
-3. Run `./gradlew genSources`.
-4. Open the folder as a Gradle project in your preferred IDE.
-5. Run the client.
-
-## Additional libraries
-
-### Mixins
-
-Mixins can be used to modify classes at runtime before they are loaded. LiquidBounce uses it to inject its code into the
-Minecraft client. This way, none of Mojang's copyrighted code is shipped. If you want to learn more about it, check out
-its [Documentation](https://docs.spongepowered.org/5.1.0/en/plugin/internals/mixins.html).
-
-## Contributing
-
-We appreciate contributions. So if you want to support us, feel free to make changes to LiquidBounce's source code and
-submit a pull request.
-
-## Stats
-
-![Alt](https://repobeats.axiom.co/api/embed/ad3a9161793c4dfe50934cd4442d25dc3ca93128.svg "Repobeats analytics image")
+1. Clone this repo with submodules:
+   ```bash
+   git clone --recurse-submodules https://github.com/sinny999s/V1vance.git
